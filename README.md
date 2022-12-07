@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Developement, Data Science, Machine Learning, Data Engineering
 - 🌱 I’m currently learning ...Naive Bayes
 - 💞️ I’m looking to collaborate on ...Data science and web developement projects
-- 📫 How to reach me ... https://www.linkedin.com/in/harshit-kumar-37b53b20a/
+- 📫 How to reach me ... [a link](https://www.linkedin.com/in/harshit-kumar-37b53b20a/)
 
 <!---
 harshit-poddar/harshit-poddar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
