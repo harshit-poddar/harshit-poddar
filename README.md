@@ -1,3 +1,4 @@
+![image](https://github.com/harshit-poddar/Portfolio/blob/main/src/assets/man.gif)
 - 👋 Hi, I’m @harshit-poddar
 - 👀 I’m interested in ... Web Developement, Data Science, Machine Learning, Data Engineering
 - 🌱 I’m currently learning ...NLP
