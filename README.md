@@ -1,3 +1,4 @@
+- ![image](https://drive.google.com/file/d/1XqErp2hODnvLfCqqddPnffUN5sUNEvK2/view?usp=share_link)
 - 👋 Hi, I’m @harshit-poddar
 - 👀 I’m interested in ... Web Developement, Data Science, Machine Learning, Data Engineering
 - 🌱 I’m currently learning ...NLP
