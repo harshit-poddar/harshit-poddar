@@ -1,4 +1,4 @@
-### [Check out my portfolio](harshitport.onrender.com)
+### [Check out my portfolio](https://harshitport.onrender.com/)
 
 ![image](https://github.com/harshit-poddar/Portfolio/blob/main/src/assets/man.gif)
 - 👋 Hi, I’m @harshit-poddar
